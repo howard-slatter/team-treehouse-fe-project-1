@@ -75,6 +75,7 @@ header .profile-image {
 }
 header .profile-image:hover {
   transform: scale(1.1);
+  border-color: #222;
 }
 .tag {
   background-color: #efefef;
