@@ -57,7 +57,8 @@ a:hover {
 
 header {
   text-align: center;
-  background: url("rsz_2stuart-weir-qmixohxi0d8-unsplash.jpg") no-repeat center;
+  background: url("images/rsz_2stuart-weir-qmixohxi0d8-unsplash.jpg") no-repeat
+    center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
