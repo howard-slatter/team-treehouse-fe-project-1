@@ -1,8 +1,8 @@
 # Team Treehouse Front End Project 1
 
-Please grade this project to 'Exceeds Expectations'.
+__Please grade this project to 'Exceeds Expectations'.__
 
-**Tested in the following desktop browsers:**
+Tested in the following desktop browsers:
 * Chrome
 * Firefox
 * Edge
