@@ -154,7 +154,7 @@ a.social {
   transition: all 0.5s;
 }
 a.github {
-  background-image: url(github.svg);
+  background-image: url(images/github.svg);
 }
 a.social:hover {
   opacity: 1;
