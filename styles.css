@@ -122,6 +122,10 @@ ul.skills {
   background: #df7802;
 }
 
+.googlemap {
+  border: 0;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
