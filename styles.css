@@ -23,6 +23,10 @@ a:hover {
 
 /* Section Styles */
 
+h2 {
+  text-decoration: underline;
+}
+
 .main-nav {
   width: 100%;
   background: black;
@@ -120,6 +124,13 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #df7802;
+}
+
+.all-you-need-is-coffee {
+  border-radius: 10%;
+  display: block;
+  margin: 0 auto;
+  width: 25%;
 }
 
 .googlemap {
